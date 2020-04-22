@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\SOFTWARE\Cognac]
+[-HKEY_CURRENT_USER\SOFTWARE\CrucialSoft Ltd]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ms antispyware 2009 5.7]
+[-HKEY_CURRENT_USER\SOFTWARE\XML]
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\ms antispyware 2009]
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Cognac]
